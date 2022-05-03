@@ -1,0 +1,27 @@
+.tableshadow
+{   
+    box-shadow:10px 10px 5px #298944;
+    padding-top:0px;
+    border:solid 1px #213541;
+}
+.lefttxt
+{ padding-left:30px; 
+    font-size:15px; 
+    color:#143f58;
+}
+.toptd{ color:white;
+    font-size:24px;
+    text-align:center;
+    height:40px; 
+    background-color:#1a577e;
+}
+.button1
+{
+   color: black; 
+    border-radius: 10px;
+    font-family: fantasy;
+}
+.button1:hover
+{
+    color: dodgerblue;
+}

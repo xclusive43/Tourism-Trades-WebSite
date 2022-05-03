@@ -1,0 +1,158 @@
+@import url("../CherryFramework/style.css");
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=calibri);
+
+@import url(http://fonts.googleapis.com/css?family=Book Antiqua);
+
+
+.papers{font-family: Calibri; font-size: 14px; color: #FFFFFF; text-decoration: none;text-align: none;} 
+.papers:hover{font-family: Calibri; font-size: 14px; color: #DEB124; text-decoration: none;text-align: none;}
+
+.papers44{font-family: Arial; font-size: 14px; letter-spacing:1px; color: #FFFFFF; text-decoration: none;text-align: none;} 
+.papers44:hover{font-family: Arial; font-size: 14px;letter-spacing:1px; color: #DEB124; text-decoration: none;text-align: none;}
+
+.papers55{font-family: Arial; font-size: 13px; letter-spacing:1px; color: #DEB124; text-decoration: none;text-align: none;} 
+.papers55:hover{font-family: Arial; font-size: 13px;letter-spacing:1px; color: #fff; text-decoration: none;text-align: none;}
+
+
+.papers10{font-family: Calibri; font-size: 16px; color: #3C9FD2; text-decoration: none;text-align: none;} 
+.papers10:hover{font-family: Calibri; font-size: 16px; color: #2177A4; text-decoration: none;text-align: none; }
+
+.papers1{font-family: Calibri; font-size: 14px; color: #DEB124; text-decoration: none;text-align: none;} 
+.papers1:hover{font-family: Calibri; font-size: 14px; color: #fff; text-decoration: none;text-align: none; text-decoration:underline;}
+
+.papers2{font-family: Calibri; font-size: 14px; color: #747474; text-decoration: none;text-align: none;} 
+.papers2:hover{font-family: Calibri; font-size: 14px; color: #272727; text-decoration: none;text-align: none; text-decoration:underline;}
+
+.papers3{font-family: Arial; font-size: 12px; color: #A6A6A6; text-decoration: none;text-align: none;} 
+.papers3:hover{font-family: Arial; font-size: 12px; color: #DEB124; text-decoration: none;text-align: none; text-decoration:underline;}
+
+.heading {
+	font-family: "georgia";
+	font-size: 36px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.heading22222 {
+	font-family: "georgia";
+	font-size: 36px;
+	color: #7D7D7D;
+	text-decoration: none;
+}
+
+.headingt {
+	font-family: "georgia";
+	font-size: 36px;
+	color: #26526A;
+	text-decoration: none;
+}
+
+.headinggray {
+	font-family: "Arial";
+	font-size: 24px;
+	color: #fff;
+	text-decoration: none;
+	line-height:29px;
+}
+
+.headingblack {
+	font-family: "Arial";
+	font-size: 24px;
+	color: #171717;
+	text-decoration: none;
+	line-height:29px;
+}
+
+.headingblack11 {
+	font-family: "Book Antiqua";
+	font-size: 24px;
+	color: #0B3648;
+	text-decoration: none;
+	line-height:29px;
+}
+
+
+
+.headinggray1 {
+	font-family: "Calibri";
+	font-size: 18px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.headingblack1 {
+	font-family: "Calibri";
+	font-size: 18px;
+	color: #171717;
+	text-decoration: none;
+}
+
+.headingblack122 {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #11394F;
+	text-decoration: none;
+}
+
+
+
+.headingsmall {
+	font-family: "Calibri";
+	font-size: 33px;
+	color: #352F2C;
+	text-decoration: none;
+}
+
+.TextMain {
+	font-family:PT Sans, sans-serif;
+	font-size:14px;
+	line-height:18px;
+	color:#5B4333;
+}
+
+
+.TextMain007 {
+	font-family:PT Sans, sans-serif;
+	font-size:14px;
+	line-height:18px;
+	color:#352F2C;
+}
+
+.TextMain2 {
+	font-family: Arial;
+	font-size: 18px;
+	text-align: normal;
+	color: #fff;
+	line-height:18px;
+	text-decoration: none;
+}
+
+.TextMain22 {
+	font-family: Arial;
+	font-size: 24px;
+	text-align: normal;
+	color: #fff;
+	line-height:18px;
+	text-decoration: none;
+}
+
+.TextMain3 {
+	font-family: Arial;
+	font-size: 15px;
+	text-align: normal;
+	color: #185666;
+	text-decoration: none;
+}
+
+.dropdown
+{
+	BACKGROUND: #262626; BORDER-BOTTOM: #262626 0px solid; BORDER-LEFT: #262626 0px solid; BORDER-RIGHT: #262626 0px solid; BORDER-TOP: #262626 0px solid; COLOR: #A2A2A2; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; width:180px;
+}
+
+.subtop {
+	font-family: "Calibri";
+	font-size: 14px;
+	color: #fff;
+	text-decoration: none;
+}
